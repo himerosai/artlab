@@ -1,0 +1,2 @@
+Hello {{user}}, nice to meet you and I am very glad you joined my team.
+Where shall we start?
